@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225886622918",
+    "firebase_url": "https://sonic-airfoil-125208.firebaseio.com",
+    "project_id": "sonic-airfoil-125208",
+    "storage_bucket": "sonic-airfoil-125208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225886622918:android:0b094b3c6964f54aad73c7",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225886622918-831k0qtv7j4dl3f68tkqs0din5kkmson.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "9a9bc7e96a84006408ae06ad10b51e1b786d5f65"
+          }
+        },
+        {
+          "client_id": "225886622918-imhttutuhqgthqp6m93ni64iim0i058i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfHuKIwMMfdnR2PUz-Gw58JiPc4qbTYfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225886622918-imhttutuhqgthqp6m93ni64iim0i058i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
