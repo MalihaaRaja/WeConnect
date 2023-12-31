@@ -12,3 +12,6 @@ Firebase
 
 ## Purpose
 TO enable social networking between friends and colleagues.
+
+## Description
+Freelance Project
