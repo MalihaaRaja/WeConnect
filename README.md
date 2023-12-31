@@ -9,3 +9,6 @@ Android
 
 ## Server
 Firebase
+
+## Purpose
+TO enable social networking between friends and colleagues.
